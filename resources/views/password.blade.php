@@ -57,6 +57,12 @@
         .form-container button:hover {
             background: linear-gradient(90deg, #764ba2 0%, #667eea 100%);
         }
+
+        .form-container button:hover {
+            background: linear-gradient(90deg, #764ba2 0%, #667eea 100%);
+        }
+        
+
         .status-message {
             color: #27ae60;
             margin-bottom: 16px;
